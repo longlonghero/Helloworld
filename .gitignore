@@ -1,0 +1,8 @@
+#incldue <stdio.h>
+#incldue <stdlib.h>
+
+int mian()
+{
+  printf("Hello World !");
+  system("pause");  
+}
